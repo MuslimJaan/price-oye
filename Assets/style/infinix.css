@@ -1,0 +1,264 @@
+* {
+    margin: 0%;
+}
+
+.nav {
+    background-color: #48afff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    flex-wrap: wrap;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.inp input {
+    padding: 16px;
+    border: none;
+    width: 390px;
+    border-radius: 5px;
+}
+
+.inp i {
+    color: #48afff;
+}
+
+.btn {
+    width: 290px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.btn-1 button {
+    background-color: white;
+    border: none;
+    position: relative;
+    left: 14px;
+    font-size: 15px;
+    color: #48afff;
+    padding: 12px;
+    width: 110px;
+    border-radius: 5px;
+}
+
+.col-6 {
+    width: 40%;
+    border: 2px solid gray;
+
+}
+
+.col-8 {
+    width: 60%;
+}
+
+.btn-2 button {
+    background-color: #48afff;
+    font-size: 15px;
+    padding: 12px;
+    width: 110px;
+    font-size: 15px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+
+
+}
+
+.min-dat {
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.man-pro {
+    margin-left: 30px;
+    width: 40%;
+    border-radius: 10px;
+    display: flex;
+}
+
+.pro-1 {
+    margin-top: 60px;
+}
+
+.pro-1 img {
+    width: 360px;
+}
+
+.pro-0 img {
+    width: 100px;
+}
+
+.main-coin {
+    background-color: #fdeee0;
+    display: flex;
+    border: 1px solid red;
+    border-radius: 5px;
+    align-items: center;
+    width: 25%;
+    margin-right: 900px;
+}
+
+.icon-2 {
+    width: 80%;
+    margin-left: 30px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.ion i {
+    color: #ffc107;
+    font-size: 20px;
+}
+
+.man-prise {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+    margin-left: 30px;
+    justify-content: space-between;
+}
+
+.dat-img {
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid #48afff;
+    flex-direction: column;
+}
+
+.dat img {
+    width: 100px;
+    border-radius: 10px;
+}
+
+.men-img {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.dat {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.click {
+    padding: 40px;
+}
+
+.click button {
+    padding: 9px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+.click button:hover {
+    color: #48afff;
+    border: #48afff;
+    background-color: pink;
+}
+
+.nav-4 button {
+    border: none;
+    padding: 10px;
+    width: 200px;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+
+.rot-1 {
+    margin-top: 40px;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.rot-1 img {
+    width: 75px;
+}
+
+.footer {
+    background-color: #48afff;
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.spn {
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+}
+
+.spn span {
+    padding: 8px;
+}
+
+.cus {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.cus span {
+    padding: 8px;
+}
+
+.pay {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+
+.pay img {
+    width: 100%;
+}
+
+.pay h3 {
+    padding: 20px;
+}
+
+.man-icon {
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon {
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon img {
+    margin: 5px;
+}
+
+.man-icon p {
+    margin-left: 120px;
+    color: white;
+    position: relative;
+    top: 30px;
+}

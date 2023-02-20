@@ -1,0 +1,277 @@
+* {
+    margin: 0%;
+}
+
+body {
+    background-color: rgb(228, 222, 222);
+}
+
+
+.nav {
+    background-color: #48afff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    flex-wrap: wrap;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.inp input {
+    padding: 16px;
+    border: none;
+    width: 390px;
+    border-radius: 5px;
+}
+
+.inp i {
+    color: #48afff;
+}
+
+.btn {
+    width: 290px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.btn-1 button {
+    background-color: white;
+    border: none;
+    position: relative;
+    left: 14px;
+    font-size: 15px;
+    color: #48afff;
+    padding: 12px;
+    width: 110px;
+    border-radius: 5px;
+}
+
+.btn-2 button {
+    background-color: #48afff;
+    font-size: 15px;
+    padding: 12px;
+    width: 110px;
+    font-size: 15px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+
+
+}
+
+.man-img {
+    display: flex;
+    width: 100%;
+    background-color: #ffffffd5;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.nav-item img {
+    width: 50px;
+}
+
+.image span {
+    position: relative;
+    top: 20px;
+    color: #404040;
+    right: 70px;
+    margin-top: 40px;
+}
+
+.pak {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mobaile {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.mob {
+    background-color: white;
+    display: flex;
+    width: 400px;
+    margin: 10px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+}
+
+.mob img {
+    width: 130px;
+    padding: 20px;
+}
+
+.mob p {
+    font-size: 20px;
+    margin: 20px;
+    margin-right: 100px;
+}
+
+.mob span {
+    margin-right: 140px;
+    font-size: 20px;
+}
+
+.had h2 {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.main-btn {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 50px;
+    justify-content: space-around;
+}
+
+.dot {
+    display: flex;
+    width: 95%;
+    justify-content: space-evenly;
+}
+
+.dot button {
+    background-color: #FFF348;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px;
+    width: 470px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+.dot button:hover {
+    background-color: #48afff;
+    transition: 2s;
+}
+
+.h-1 h3 {
+    margin-left: 20px;
+    position: relative;
+    top: 30px;
+}
+
+.list {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.brand {
+    display: flex;
+    width: 60px;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.brand img {
+    width: 100%;
+}
+
+.brand span {
+    padding: 10px;
+}
+
+.footer {
+    background-color: #48afff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.spn {
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+}
+
+.spn span {
+    padding: 8px;
+}
+
+.cus {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.cus span {
+    padding: 8px;
+}
+
+.pay {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+
+.pay img {
+    width: 100%;
+}
+
+.pay h3 {
+    padding: 20px;
+}
+
+.man-icon {
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon {
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon img {
+    margin: 5px;
+}
+
+.man-icon p {
+    margin-left: 120px;
+    color: white;
+    position: relative;
+    top: 30px;
+}
